@@ -1,0 +1,37 @@
+[
+    {
+        "username": "francomamani",
+        "name": "Franco Jesus",
+        "age": 33
+    },
+    {
+        "username": "andreamegan",
+        "name": "Andrea Megan",
+        "age": 26
+    },
+    {
+        "username": "joelgonzales",
+        "name": "Joel Gonzales",
+        "age": 30
+    },
+    {
+        "username": "danielachumacero",
+        "name": "Daniela Chumacero",
+        "age": 34
+    },
+    {
+        "username": "coralyingrid",
+        "name": "Coraly Ingrid",
+        "age": 33
+    },
+    {
+        "username": "danielarancibia",
+        "name": "Daniel Arancibia",
+        "age": 33
+    },
+    {
+        "username": "nuviamariana",
+        "name": "Nuvia Mariana",
+        "age": 34
+    }
+]
